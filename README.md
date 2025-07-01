@@ -14,7 +14,7 @@ Este proyecto es una aplicación en Java que consume una API de tasas de cambio 
 
 ### 🔧 Cómo ejecutar el proyecto
  Cloná el repositorio:
-   ```bash
+  bash:
    git clone https://github.com/tu-usuario/conversor-monedas.git
 
 ### ✅ Funcionamiento
@@ -28,14 +28,14 @@ Este proyecto es una aplicación en Java que consume una API de tasas de cambio 
 
 Convertir 100 USD a EUR
 
-```java
+java:
 Ingrese la cantidad: 100
 Moneda de origen: USD
 Moneda de destino: EUR
 Resultado: 91.25 EUR
 
 ### ✅ 8. **Créditos / Autor**
-```
+
  👤 Autor
 
 - Pablo Martín Domínguez  
